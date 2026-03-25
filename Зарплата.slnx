@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Зарплата/Зарплата.vcxproj" Id="cf2159b3-e5fd-4b8b-b367-41775c0216f6" />
+</Solution>
